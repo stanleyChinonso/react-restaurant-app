@@ -1,0 +1,68 @@
+.services {
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    margin-bottom: 50px;
+}
+
+.service-head {
+    width: 100%;
+    margin-top: 40px;
+    display: flex;
+    justify-content: center;
+
+}
+
+.service-head h2 {
+    text-transform: capitalize;
+    color:#168a1a;
+    font-size: 200%;
+    word-spacing: 2px;
+    letter-spacing: 1px;
+    margin-bottom: 50px;
+
+}
+
+.service-body {
+    width: 100%;
+    display: flex;
+    margin-bottom: 50px ;
+    justify-content: center;
+}
+
+.body-content {
+    width: calc(70%/4);
+    height: 68vh;
+    background-color: rgb(247, 247, 247);
+    padding: 20px;
+    margin-right: 20px ;
+}
+
+.service-icons {
+    font-size: 250%;
+    color: #d36d29;
+    margin-top: 20px;
+}
+
+.service-heading h3 {
+    font-size: 130%;
+    color:#041f04 ;
+    text-transform: capitalize;
+    letter-spacing: 1px;
+    word-spacing: 2px;
+}
+
+.service-para {
+    letter-spacing: 1px;
+    word-spacing: 2px;
+    line-height: 35px;
+}
+
+
+
+
+
+
+
+
+
